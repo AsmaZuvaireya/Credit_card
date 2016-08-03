@@ -1,0 +1,142 @@
+body{
+	background-color: #404040;
+	 
+}
+.row [class^="col-md-*"] {
+	height: 100%;
+	border-radius: 4px;
+	
+}
+.style {
+    padding: 96px 0px;
+}
+
+input{
+	padding: 8px;
+	margin:3px 0px 0px 0px;
+	width: 100%;
+}
+.signin{
+	height: 450px;
+	background-color: white;
+	border-radius: 8px 0px 0px 8px;
+	
+}
+.visa_card{
+	height: 450px;
+	background-color: #00ace6;
+	border-radius: 0px 8px 8px 0px;
+}
+.borderbottom{
+	border-color: transparent;
+	border-bottom-color:#D3D3D3;
+}
+input:focus{
+	outline: none;
+}
+
+.date{
+	width: 49%;
+    padding-left: 8px;
+	
+}
+.date1{
+    width: 50%;
+    padding-left: 8px;
+}
+.info_icon{
+	position: absolute;
+    top: 267px;
+    color: black;
+    left: 551px;
+}
+.lock_icon{
+	position: relative;
+    top: 70px;
+    color: white;
+   
+    left: 186px;
+    z-index: 1;
+}
+.visa_card_info{
+    margin: 137px 118px;
+    height: 174px;
+    border: 2px solid white;
+    border-radius: 8px;
+}
+.remove_icon{
+	float: right;
+	position: relative;
+	left: 10px;
+    top: 5px;
+}
+.store_card{
+	position: absolute;
+    top: 32px;
+    left: 1162px;
+    color: white;
+}
+.ui_daily{
+	position: absolute;
+    top: 32px;
+    color: white;
+}
+.submit{
+	background-color: #00cc66;
+    padding: 12px 60px;
+    border: 0;
+    font-size: 18px;
+    margin: 0px;
+    position: relative;
+    top: 25px;
+    left: 148px;
+    color: white;
+}
+.form{
+	  margin: 0px 0px;
+}
+
+.card_num {
+	position: relative;
+    bottom: 55px;
+    color: gray;
+    font-size: 12px;
+}
+.card_hold{
+	position: relative;
+    bottom: 55px;
+    color: gray;
+    font-size: 12px;
+}
+.border_bottom{
+	border-color: transparent;
+	border-bottom-color:#D3D3D3;
+}
+.visa{
+	font-size: 23px;
+    font-style: italic;
+    float: right;
+    padding: 5px 10px;
+}
+.number{
+	position: relative;
+    top: 74px;
+    left: 80px;
+}
+.name{
+	position: relative;
+    top: 96px;
+    left: 80px;
+}
+.month{
+	position: relative;
+    top: 65px;
+    left: 173px;
+}
+p{
+	color: white;
+}
+h4{
+    font-size: 23px;
+    margin: 45px 0px;
+}
